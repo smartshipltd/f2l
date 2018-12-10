@@ -2,11 +2,7 @@
 
 探しやすい・覚えやすいF2L手順書を目指します
 
-## PDFファイル
-
-- [F2L_primary_1.pdf](https://github.com/smartshipltd/f2l/raw/master/F2L_primary_1.pdf) : 初学者向けF2L手順書1/2
-- [F2L_primary_2.pdf](https://github.com/smartshipltd/f2l/raw/master/F2L_primary_2.pdf) : 初学者向けF2L手順書2/2
-
+- [F2L_primary.pdf](https://github.com/smartshipltd/f2l/raw/master/F2L_primary.pdf) : 初学者向けF2L手順書
 
 ## 初学者向け(primary)一覧の特徴
 
